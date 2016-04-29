@@ -1,4 +1,4 @@
-## QumuV8 - ios SDK
+## QumuV8 - Qumu SDK
 
 
 
@@ -7,15 +7,16 @@
 
 **Development Environment**
 
-> Sample pod file should look like below in development environment
+> Sample application pod file that uses qumu-sdk pod in development environment
 ```ruby
 platform :ios, '8.0'
 use_frameworks!
 target 'TestApp' do
+pod 'MBProgressHUD'
 #This installs pod using code from local folder. Using local folder you can do the hot edits to the ios-sdk project
-pod 'ios-sdk' , :path => '~/Documents/WorkArea/ios-sdk'
+pod 'qumu-sdk' , :path => '~/Documents/WorkArea/ios-sdk'
 #This installs pod fetching code from remote repo
-#pod 'ios-sdk' , :git => 'https://INTERNAL_REPO_URL/ios-sdk.git', :branch => 'develop'
+#pod 'qumu-sdk' , :git => 'https://INTERNAL_REPO_URL/ios-sdk.git', :branch => 'develop'
 end
 ```
 
