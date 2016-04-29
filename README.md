@@ -1,5 +1,3 @@
-# secondAppa
-
 ## QumuV8 - ios SDK
 
 
@@ -26,4 +24,4 @@ end
 
 ## Note
 
-- [x] Always create a folder when a new group is created in Xcode to maintain folder struture in pods
+- [x] Always create a folder when a new group is created in Xcode to maintain folder structure in pods
