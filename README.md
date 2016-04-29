@@ -21,7 +21,7 @@ pod 'ios-sdk' , :path => '~/Documents/WorkArea/ios-sdk'
 end
 ```
 
-- [Detailed Documentation](https://confluence.qumu.com/pages/viewpage.action?title=Private+Pods&spaceKey=mobile)
+- [Complete Documentation](https://confluence.qumu.com/pages/viewpage.action?title=Private+Pods&spaceKey=mobile)
 
 
 ## Note
