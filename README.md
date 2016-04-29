@@ -7,7 +7,7 @@
 
 ## Usage
 
-**Development Environment*
+**Development Environment**
 
 > Sample pod file should look like below in development environment
 ```ruby
@@ -21,7 +21,7 @@ pod 'ios-sdk' , :path => '~/Documents/WorkArea/ios-sdk'
 end
 ```
 
-- [Documentation](https://confluence.qumu.com/pages/viewpage.action?title=Private+Pods&spaceKey=mobile)
+-[Detailed Documentation](https://confluence.qumu.com/pages/viewpage.action?title=Private+Pods&spaceKey=mobile)
 
 
 ## Note
