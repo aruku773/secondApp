@@ -7,7 +7,7 @@
 
 ## Usage
 
-## Development Environment
+**Development Environment*
 
 > Sample pod file should look like below in development environment
 ```ruby
