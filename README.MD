@@ -26,7 +26,7 @@ Fix : Make the following change in the Build settings of the corresponding targe
 ***
 
 
-### QumuSDK Swift 2.3 migration steps
+### QumuCaptureApp Swift 2.3 migration steps
 
 1. Install CocoaPods 1.1.0-rc.2 with the below command
 
