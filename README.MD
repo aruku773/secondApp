@@ -23,10 +23,6 @@ Fix : Make the following change in the Build settings of the corresponding targe
 
 ```
 
-# Release Notes
-### 1.0.0
-
-
 ***
 
 
@@ -49,3 +45,9 @@ Target->BuildSettings ->Use legacy Swift Language Version = YES
 5. Select projects XLActionController and DKImagePickerController
 
 6. Accept changes suggested and save
+
+
+# Release Notes
+### 1.0.0
+
+
