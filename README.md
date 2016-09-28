@@ -28,6 +28,8 @@ end
 - [x] Always create a folder when a new group is created in Xcode to maintain folder structure in pods
 
 
+
+
 ### QumuSDK Swift 2.3 migration steps
 
 1. Install CocoaPods 1.1.0-rc.2 with the below command
