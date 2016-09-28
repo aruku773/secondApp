@@ -28,7 +28,7 @@ end
 - [x] Always create a folder when a new group is created in Xcode to maintain folder structure in pods
 
 
-
+<hr />
 
 ### QumuSDK Swift 2.3 migration steps
 
