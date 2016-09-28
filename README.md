@@ -39,8 +39,8 @@ end
 
 2. Install pods
 
-  ```sh  
-   $ pod install 
+```sh 
+$ pod install 
 
 ```
 
