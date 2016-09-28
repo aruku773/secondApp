@@ -36,7 +36,6 @@ end
     $ gem install cocoapods --pre 
 
 ```
-
 2. Install pods
 
 ```sh 
