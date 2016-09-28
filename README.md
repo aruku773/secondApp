@@ -35,6 +35,7 @@ end
    ```ruby $ gem install cocoapods --pre```
 
 2. Install pods
+
   ```ruby $ pod install```
 
 3. Open workspace and change Target build settings to use legacy swift version
