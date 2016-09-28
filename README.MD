@@ -28,17 +28,19 @@ Fix : Make the following change in the Build settings of the corresponding targe
 
 ### QumuCaptureApp Swift 2.3 migration steps
 
+```sh
+
 1. Install CocoaPods 1.1.0-rc.2 with the below command
 
-``` $ gem install cocoapods --pre```
+    ``` $ gem install cocoapods --pre```
 
 2. Install pods
 
-``` $ pod install```
+    ``` $ pod install```
 
 3. Open workspace and change Target build settings to use legacy swift version
 
-Target->BuildSettings ->Use legacy Swift Language Version = YES
+   Target->BuildSettings ->Use legacy Swift Language Version = YES
 
 4. Edit->Convert->To Current Swift Syntax-> Convert to Swift 2.3
 
@@ -46,6 +48,7 @@ Target->BuildSettings ->Use legacy Swift Language Version = YES
 
 6. Accept changes suggested and save
 
+```
 
 # Release Notes
 ### 1.0.0
