@@ -33,13 +33,15 @@ end
 
 ### QumuSDK Swift 2.3 migration steps
 
+```sh
+
 1. Install CocoaPods 1.1.0-rc.2 with the below command
 
-   ``` $ gem install cocoapods --pre```
+   $ gem install cocoapods --pre
 
 2. Install pods
 
-  ``` $ pod install```
+   $ pod install
 
 3. Open workspace and change Target build settings to use legacy swift version
 
@@ -48,3 +50,5 @@ end
 4. Edit->Convert->To Current Swift Syntax-> Convert to Swift 2.3
 
 5. Changes will be made in ServerTrustPolicy.swift . Accept those changes and save
+
+```
