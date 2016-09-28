@@ -33,9 +33,7 @@ end
 1. Install CocoaPods 1.1.0-rc.2 with the below command
 
    ```sh 
-    $ gem install cocoapods --pre 
-
-```
+    $ gem install cocoapods --pre ```
 2. Install pods
 
 ```sh 
