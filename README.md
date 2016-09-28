@@ -29,7 +29,6 @@ end
 
 
 <hr />
-<hr />
 
 
 ### QumuSDK Swift 2.3 migration steps
