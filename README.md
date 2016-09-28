@@ -32,14 +32,10 @@ end
 
 1. Install CocoaPods 1.1.0-rc.2 with the below command
 
-   ```sh 
-    $ gem install cocoapods --pre ```
+   ```sh $ gem install cocoapods --pre```
+
 2. Install pods
-
-```sh 
-$ pod install 
-
-```
+  ```sh  $ pod install```
 
 3. Open workspace and change Target build settings to use legacy swift version
 
