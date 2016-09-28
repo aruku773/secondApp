@@ -38,8 +38,10 @@ end
 ```
 
 2. Install pods
+
   ```sh  
    $ pod install 
+
 ```
 
 3. Open workspace and change Target build settings to use legacy swift version
